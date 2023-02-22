@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNum", "Spisyci\RemoveNum.csproj", "{35493CB3-F113-46E3-9B50-84ED9856D9C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNum", "Spisyci\RemoveNum.csproj", "{35493CB3-F113-46E3-9B50-84ED9856D9C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteNegativeNums", "DeleteNegativeNums\DeleteNegativeNums.csproj", "{E5DF11FE-F616-4EA9-9847-7D1CC8AF5F29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteNegativeNums", "DeleteNegativeNums\DeleteNegativeNums.csproj", "{E5DF11FE-F616-4EA9-9847-7D1CC8AF5F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliwane", "Sliwane\Sliwane.csproj", "{6874DAF4-FF05-4034-A21A-2E7086BF605A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChislaKwadrati", "ChislaKwadrati\ChislaKwadrati.csproj", "{7C23178E-099A-41D6-BE1E-4C54C5229A00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{E5DF11FE-F616-4EA9-9847-7D1CC8AF5F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5DF11FE-F616-4EA9-9847-7D1CC8AF5F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5DF11FE-F616-4EA9-9847-7D1CC8AF5F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6874DAF4-FF05-4034-A21A-2E7086BF605A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6874DAF4-FF05-4034-A21A-2E7086BF605A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6874DAF4-FF05-4034-A21A-2E7086BF605A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6874DAF4-FF05-4034-A21A-2E7086BF605A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C23178E-099A-41D6-BE1E-4C54C5229A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C23178E-099A-41D6-BE1E-4C54C5229A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C23178E-099A-41D6-BE1E-4C54C5229A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C23178E-099A-41D6-BE1E-4C54C5229A00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
