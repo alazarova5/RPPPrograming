@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\obj\Debug\net5.0\Minyor.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\obj\Debug\net5.0\Minyor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\obj\Debug\net5.0\Minyor.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\obj\Debug\net5.0\Minyor.AssemblyInfo.cs
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\obj\Debug\net5.0\Minyor.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\bin\Debug\net5.0\Minyor.exe
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\bin\Debug\net5.0\Minyor.deps.json
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\bin\Debug\net5.0\Minyor.runtimeconfig.json
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\bin\Debug\net5.0\Minyor.runtimeconfig.dev.json
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\bin\Debug\net5.0\Minyor.dll
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\bin\Debug\net5.0\ref\Minyor.dll
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\bin\Debug\net5.0\Minyor.pdb
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\obj\Debug\net5.0\Minyor.dll
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\obj\Debug\net5.0\ref\Minyor.dll
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\obj\Debug\net5.0\Minyor.pdb
+C:\Users\Student\Desktop\RPPPrograming\Dictionary\Minyor\obj\Debug\net5.0\Minyor.genruntimeconfig.cache
