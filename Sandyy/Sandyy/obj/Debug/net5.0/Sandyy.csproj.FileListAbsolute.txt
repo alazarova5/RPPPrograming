@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\bin\Debug\net5.0\Sandyy.exe
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\bin\Debug\net5.0\Sandyy.deps.json
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\bin\Debug\net5.0\Sandyy.runtimeconfig.json
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\bin\Debug\net5.0\Sandyy.runtimeconfig.dev.json
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\bin\Debug\net5.0\Sandyy.dll
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\bin\Debug\net5.0\ref\Sandyy.dll
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\bin\Debug\net5.0\Sandyy.pdb
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\obj\Debug\net5.0\Sandyy.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\obj\Debug\net5.0\Sandyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\obj\Debug\net5.0\Sandyy.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\obj\Debug\net5.0\Sandyy.AssemblyInfo.cs
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\obj\Debug\net5.0\Sandyy.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\obj\Debug\net5.0\Sandyy.dll
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\obj\Debug\net5.0\ref\Sandyy.dll
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\obj\Debug\net5.0\Sandyy.pdb
+C:\Users\Student\Documents\11b 1\Sandyy\Sandyy\obj\Debug\net5.0\Sandyy.genruntimeconfig.cache
