@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\bin\Debug\net5.0\ZadRPP.exe
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\bin\Debug\net5.0\ZadRPP.deps.json
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\bin\Debug\net5.0\ZadRPP.runtimeconfig.json
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\bin\Debug\net5.0\ZadRPP.runtimeconfig.dev.json
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\bin\Debug\net5.0\ZadRPP.dll
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\bin\Debug\net5.0\ref\ZadRPP.dll
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\bin\Debug\net5.0\ZadRPP.pdb
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\obj\Debug\net5.0\ZadRPP.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\obj\Debug\net5.0\ZadRPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\obj\Debug\net5.0\ZadRPP.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\obj\Debug\net5.0\ZadRPP.AssemblyInfo.cs
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\obj\Debug\net5.0\ZadRPP.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\obj\Debug\net5.0\ZadRPP.dll
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\obj\Debug\net5.0\ref\ZadRPP.dll
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\obj\Debug\net5.0\ZadRPP.pdb
+C:\Users\Student\Documents\11b 1\RPPPrograming\ZadRPP\ZadRPP\obj\Debug\net5.0\ZadRPP.genruntimeconfig.cache
