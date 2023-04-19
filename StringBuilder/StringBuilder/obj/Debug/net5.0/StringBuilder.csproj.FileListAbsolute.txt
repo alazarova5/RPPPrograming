@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.exe
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.deps.json
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.runtimeconfig.json
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.runtimeconfig.dev.json
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.dll
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\bin\Debug\net5.0\ref\StringBuilder.dll
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.pdb
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfo.cs
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.dll
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\obj\Debug\net5.0\ref\StringBuilder.dll
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.pdb
+C:\Users\Student\Documents\11b 1\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.genruntimeconfig.cache
